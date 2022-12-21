@@ -1,9 +1,14 @@
 # MNIST-GAN
 
-1. vanilla GAN
-2. DCGAN
-3. LSGAN
+## MNIST image generation project using
 
+### ✅ vanilla GAN
+### ✅ DCGAN
+### ✅ LSGAN
+
+
+
+---
 reference
 - ```vanilla GAN```, ```LSGAN``` : https://github.com/eriklindernoren/Keras-GAN
 - ```DCGAN``` : https://www.tensorflow.org/tutorials/generative/dcgan

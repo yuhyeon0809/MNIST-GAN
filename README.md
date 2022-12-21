@@ -1,6 +1,6 @@
 # MNIST-GAN
 
-## MNIST image generation project using
+## MNIST image generation project
 
 ### ✅ vanilla GAN
 ### ✅ DCGAN

@@ -4,8 +4,8 @@
 
 ### ✅ vanilla GAN
 ### ✅ DCGAN
-### ✅ LSGAN
-
+### ✅ LSGAN  
+# 
 
 
 
